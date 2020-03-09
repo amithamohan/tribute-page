@@ -1,0 +1,68 @@
+.container-fluid
+{
+    background-color: #EEEEEE;
+   
+}
+
+#banner
+{
+    max-width: 100%;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 0%;
+}
+
+#navbar-header
+{
+    border:1px solid black;
+    height: 175px;
+}
+#title
+{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    font-weight: bold;
+    font-size: 5vw;
+}
+
+#para1
+{
+    padding-top: 0%;
+}
+
+#h4
+{
+    padding-bottom: 4%;
+    font-size: 20px;
+}
+
+#image-div
+{
+    background-color: #ffffff;
+    max-width: 100%;
+  
+}
+
+#bottom-para
+{
+    padding-top: 5%;
+}
+
+#row2
+{
+    font-size: 1.3vw;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li
+{
+    padding-bottom: 3%;
+}
+
+#para-last
+{
+    font-weight: bold;
+    font-size: 1.6vw;
+    text-align: center;
+}
